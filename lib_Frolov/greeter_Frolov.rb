@@ -9,3 +9,9 @@ end
 
 2
 3
+<<<<<<< HEAD
+=======
+After merge
+1
+2
+3
