@@ -8,3 +8,4 @@ class Greeter
 end
 
 2
+3
